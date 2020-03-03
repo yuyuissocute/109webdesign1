@@ -10,7 +10,7 @@ if (a < 10) {
 } else {
     var b = 1;
 }
-while (b === 1) {
+/*while (b === 1) {
     console.log('a >= 10');
     break;
-}
+}*/
