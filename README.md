@@ -16,4 +16,5 @@
 | final    | 期末專題 | 
 
 ## 期末專題說明
-設計個人網頁，並行銷個人影音作品，可利用button進行多頁面間之跳轉，最後上傳於GitHub Pages，並將首頁連結貼於final資料夾內之readme.md
+* 設計個人網頁，並行銷個人影音作品，可利用button進行多頁面間之跳轉，最後上傳於GitHub Pages，並將首頁連結貼於final資料夾內之readme.md
+* 將REPO連結貼於期末專案繳交區(HackMD)，並註記姓名
